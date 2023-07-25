@@ -1,0 +1,6 @@
+{
+    "watch": ["src", "public"],
+    "ext": ".ts,.js,.yaml,.json",
+    "ignore": [],
+    "exec": "react-scripts start"
+  }
